@@ -1,6 +1,7 @@
 # AI-PHASE4
 # Performing Association Analysis for GitHub
 
+![Market Basket Analysis]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeW4Zj3-Ic6MIDtcN3HU1FXPnjsvPOhdRPTQ&usqp=CAU)
 
 ## Table of Contents
 1. [Introduction](#introduction)
